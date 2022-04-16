@@ -71,3 +71,9 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Heroku
+
+- https://blog.heroku.com/deploying-react-with-zero-configuration
+- https://devcenter.heroku.com/articles/git
+- https://devcenter.heroku.com/articles/multiple-environments
